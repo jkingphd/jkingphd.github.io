@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+As the tagline says, I am a Physicist-turned-Data-Scientist. I now run a team of Data Scientists, Data Analysts, and Clinical Subject Matter Experts that solve intractable problems in acute hospital settings through the application of machine learning models. I primarily operate in the domain of Natural Language Processing, although I do work with structure data (albeit ragged time series).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+In my free time, I am avid consumer of books, video games, and board games. I love disc golf and table tennis. I live in Nashville, TN with my wife and two dogs.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Resume
 
-
-[jekyll-organization]: https://github.com/jekyll
+<object data="../assets/pdfs/king-resume-nlp.pdf" width="100%" height="800px" type='application/pdf'></object>
