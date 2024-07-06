@@ -10,4 +10,4 @@ In my free time, I am avid consumer of books, video games, and board games. I lo
 
 # Resume
 
-<object data="../assets/pdfs/king-resume-nlp.pdf" width="100%" height="800px" type='application/pdf'></object>
+<iframe src="https://resume.creddle.io/embed/gswuuwa2nbd" width="850" height="1100" seamless></iframe>
